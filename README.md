@@ -30,21 +30,12 @@ I'm Mitesh Gupta, an aspiring Data Scientist with a strong desire for discoverin
 ![Pickle](https://img.shields.io/badge/Pickle-3E8E04?style=for-the-badge&logo=python&logoColor=white)
 
 
-
-
-
-
 **Web Scraping**
 
 ![Request](https://img.shields.io/badge/Requests-EE4C2C?style=for-the-badge&logo=python&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-E10098?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/Scrapy-blue?style=for-the-badge&logo=Scrapy&logoColor=white)
-
-
-
-**Recommendation System**
-
 
 
 **Backend Framework**
