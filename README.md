@@ -9,17 +9,6 @@ I'm Mitesh Gupta, an aspiring Data Scientist with a strong desire for discoverin
 
 
 ## 🛠 Tech Stack
-**Programming Language**
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-**Data Visalisation**
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-777BB4?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=plotly&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
 **Machine Learning**
 
@@ -29,6 +18,11 @@ I'm Mitesh Gupta, an aspiring Data Scientist with a strong desire for discoverin
 ![Joblib](https://img.shields.io/badge/Joblib-FD8C25?style=for-the-badge&logo=python&logoColor=white)
 ![Pickle](https://img.shields.io/badge/Pickle-3E8E04?style=for-the-badge&logo=python&logoColor=white)
 
+**Data Visalisation**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-777BB4?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
 **Web Scraping**
 
@@ -42,6 +36,12 @@ I'm Mitesh Gupta, an aspiring Data Scientist with a strong desire for discoverin
 
 ![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black)
+
+**Programming Language**
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 **Databases**
 
