@@ -18,7 +18,7 @@ I'm Mitesh Gupta, an aspiring Data Scientist with a strong desire for discoverin
 ![Joblib](https://img.shields.io/badge/Joblib-FD8C25?style=for-the-badge&logo=python&logoColor=white)
 ![Pickle](https://img.shields.io/badge/Pickle-3E8E04?style=for-the-badge&logo=python&logoColor=white)
 
-**Data Visalisation**
+**Data Visualisation**
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-777BB4?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=plotly&logoColor=white)
