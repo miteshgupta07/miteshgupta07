@@ -12,7 +12,7 @@ I'm Mitesh Gupta, an aspiring Data Scientist with a strong desire for discoverin
 
 **Machine Learning**
 
-![scikit-learn](https://img.shields.io/badge/scikit_learn-E10098?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-E10098?style=for-the-badge&logo=scikit-learn&logoColor=white)(https://www.linkedin.com/in/mitesh-gupta/)
 ![SciPy](https://img.shields.io/badge/SciPy-FB2423?style=for-the-badge&logo=scipy&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-276DC3?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Joblib](https://img.shields.io/badge/Joblib-FD8C25?style=for-the-badge&logo=python&logoColor=white)
