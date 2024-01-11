@@ -15,8 +15,8 @@ I'm Mitesh Gupta, an aspiring Data Scientist with a strong desire for discoverin
 [![scikit-learn](https://img.shields.io/badge/scikit_learn-E10098?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![SciPy](https://img.shields.io/badge/SciPy-FB2423?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-276DC3?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/en/stable/)
-[![Joblib](https://img.shields.io/badge/Joblib-FD8C25?style=for-the-badge&logo=python&logoColor=white)]()
-[![Pickle](https://img.shields.io/badge/Pickle-3E8E04?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/pickle.html)
+[![Joblib](https://img.shields.io/badge/Joblib-FD8C25?style=for-the-badge&logo=python&logoColor=white)](https://joblib.readthedocs.io/en/stable/)
+[![Pickle](https://img.shields.io/badge/Pickle-3E8E04?style=for-the-badge&logo=python&logoColor=white)]()
 
 **Data Visualisation**
 
