@@ -20,9 +20,9 @@ I'm Mitesh Gupta, an aspiring Data Scientist with a strong desire for discoverin
 
 **Data Visualisation**
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-777BB4?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=plotly&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-777BB4?style=for-the-badge&logo=plotly&logoColor=white)]
+[![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=plotly&logoColor=white)]
+[![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)]
 
 **Web Scraping**
 
