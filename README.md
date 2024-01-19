@@ -27,7 +27,7 @@ I'm Mitesh Gupta, an aspiring Data Scientist with a strong desire for discoverin
 **Web Scraping**
 
 [![Request](https://img.shields.io/badge/Requests-EE4C2C?style=for-the-badge&logo=python&logoColor=white)](https://pypi.org/project/requests/)
-[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-E10098?style=for-the-badge&logo=python&logoColor=white)(https://beautiful-soup-4.readthedocs.io/en/latest/)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-E10098?style=for-the-badge&logo=python&logoColor=white)](https://beautiful-soup-4.readthedocs.io/en/latest/)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white](https://selenium-python.readthedocs.io/)
 [![Scrapy](https://img.shields.io/badge/Scrapy-blue?style=for-the-badge&logo=Scrapy&logoColor=white](https://scrapy.org/)
 
