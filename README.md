@@ -34,7 +34,7 @@ I'm Mitesh Gupta, an aspiring Data Scientist with a strong desire for discoverin
 
 **Backend Framework**
 
-![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)]
 ![Flask](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black)
 
 **Programming Language**
