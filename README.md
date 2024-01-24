@@ -8,7 +8,7 @@ I'm Mitesh Gupta, an aspiring Data Scientist with a strong desire for discoverin
 
 
 
-## 🛠 Tech Stack
+## Tech Stack 🛠
 
 **Machine Learning**
 
