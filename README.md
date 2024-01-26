@@ -45,7 +45,7 @@ I'm Mitesh Gupta, an aspiring Data Scientist with a strong desire for discoverin
 
 **Database Management**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]
 
 
 
