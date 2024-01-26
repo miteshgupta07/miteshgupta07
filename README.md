@@ -77,7 +77,7 @@ I'm Mitesh Gupta, an aspiring Data Scientist with a strong desire for discoverin
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitesh-gupta/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mg_mitesh)
 [![Gmail](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgmiteshgupta134@gmail.com)
-[![Medium](https://img.shields.io/badge/medium-red?style=for-the-badge&logo=gmail&logoColor=white)](https://medium.com/@mgmiteshgupta134)
+[![Medium](https://img.shields.io/badge/medium-red?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mgmiteshgupta134)
 
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=miteshgupta07&theme=radical&show_icons=true&hide_border=true&count_private=true)
