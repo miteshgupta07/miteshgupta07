@@ -81,3 +81,4 @@ I'm Mitesh Gupta, an aspiring Data Scientist with a strong desire for discoverin
 
 
 ![miteshgupta07's Stats](https://github-readme-stats.vercel.app/api?username=miteshgupta07&theme=default&show_icons=true&hide_border=false&count_private=false)
+![miteshgupta07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miteshgupta07&theme=default&show_icons=true&hide_border=true&layout=compact)
