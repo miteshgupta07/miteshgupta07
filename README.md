@@ -80,5 +80,4 @@ I'm Mitesh Gupta, an aspiring Data Scientist with a strong desire for discoverin
 [![Medium](https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mgmiteshgupta134)
 
 
-![Logo](https://github-readme-stats.vercel.app/api?username=miteshgupta07&theme=radical&show_icons=true&hide_border=true&count_private=true)
-
+![miteshgupta07's Stats](https://github-readme-stats.vercel.app/api?username=miteshgupta07&theme=default&show_icons=true&hide_border=false&count_private=false)
