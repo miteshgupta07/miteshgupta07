@@ -18,7 +18,6 @@ I'm Mitesh Gupta, an aspiring Data Scientist with a strong desire for discoverin
 **Computer Vision**
 
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![CVZone](https://img.shields.io/badge/CVZone-2A2A2A?style=for-the-badge&logo=cvzone&logoColor=white)](https://github.com/cvzone/cvzone)
 
 **Machine Learning**
 
