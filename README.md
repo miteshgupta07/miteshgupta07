@@ -11,6 +11,8 @@ I'm Mitesh Gupta, an aspiring Data Scientist with a strong desire for discoverin
 ## Tech Stack 🛠
 
 **Deep Learning**
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+
 **Machine Learning**
 
 [![scikit-learn](https://img.shields.io/badge/scikit_learn-E10098?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
