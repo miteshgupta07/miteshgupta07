@@ -12,6 +12,11 @@ I'm Mitesh Gupta, an aspiring Data Scientist with a strong desire for discoverin
 
 **Deep Learning**
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/keras-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://keras.io/)
+
+**Computer Vision**
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+
 
 **Machine Learning**
 
