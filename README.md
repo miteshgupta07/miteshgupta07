@@ -16,6 +16,7 @@ I'm Mitesh Gupta, an aspiring Data Scientist with a strong desire for discoverin
 [![Keras](https://img.shields.io/badge/keras-EE4C2C?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
 
 **Computer Vision**
+
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 
 
