@@ -3,7 +3,7 @@
 
 
 
-I'm Mitesh Gupta, an aspiring Data Scientist with a strong desire for discovering complex patterns in huge datasets. I have a unique set of skills from my work in the data area that allows me to make a link between raw data and insightful understandings.
+I'm Mitesh Gupta, an **Aspiring Data Scientist** with a strong desire for discovering complex patterns in huge datasets. I have a unique set of skills from my work in the data area that allows me to make a link between raw data and insightful understandings.
 
 
 
