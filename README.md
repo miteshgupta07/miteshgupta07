@@ -6,7 +6,11 @@
 I'm Mitesh Gupta, an **Aspiring Data Scientist** with a strong desire for discovering complex patterns in huge datasets. I have a unique set of skills from my work in the data area that allows me to make a link between raw data and insightful understandings.
 
 
-
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitesh-gupta/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mg_mitesh)
+[![Gmail](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgmiteshgupta134@gmail.com)
+[![Medium](https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mgmiteshgupta134)
 
 ## Tech Stack 🛠
 
@@ -80,13 +84,6 @@ I'm Mitesh Gupta, an **Aspiring Data Scientist** with a strong desire for discov
    - Feel free to ask me about anything related to my projects, data science, or any other tech-related topics you find intriguing.
 
 
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitesh-gupta/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mg_mitesh)
-[![Gmail](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgmiteshgupta134@gmail.com)
-[![Medium](https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mgmiteshgupta134)
       
 ![miteshgupta07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miteshgupta07&theme=default&show_icons=true&hide_border=true&layout=compact)
 
