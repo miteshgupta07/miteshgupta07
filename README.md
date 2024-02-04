@@ -64,13 +64,9 @@ I'm Mitesh Gupta, an **Aspiring Data Scientist** with a strong desire for discov
 
 ## 🚀 About Me
 
-👩‍💻   I'm currently workiing on exciting projects like building a Netflix recommendation system and creating a COVID-19 report dashboard.
-
 🧠   I'm currently learning Data Science, constantly expanding my skills to tackle new challenges.
 
-🤔   I'm seeking guidance and support, especially from experienced developers, to enhance the deployment process of my project models.
-
-👯‍♀️   I'm eager to collaborate with a developer who can assist in deploying my project models, making them accessible to a broader audience.
+👬   I'm eager to collaborate with a developer who can assist in deploying my project models, making them accessible to a broader audience.
 
 📫   I'd love to connect! You can reach out to me via [LinkedIn](https://www.linkedin.com/in/mitesh-gupta/) or [Twitter](https://twitter.com/mg_mitesh) or [Gmail](mailto:mgmiteshgupta134@gmail.com)
    
