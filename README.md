@@ -64,24 +64,17 @@ I'm Mitesh Gupta, an **Aspiring Data Scientist** with a strong desire for discov
 
 ## 🚀 About Me
 
-👩‍💻 **Currently Working On...**  
-   - I'm currently immersed in exciting projects like building a Netflix recommendation system and creating a COVID-19 report dashboard.
+👩‍💻   I'm currently workiing on exciting projects like building a Netflix recommendation system and creating a COVID-19 report dashboard.
 
-🧠 **Currently Learning...**  
-   - I'm deeply engaged in learning the intricacies of Data Science, constantly expanding my skills to tackle new challenges.
+🧠   I'm currently learning Data Science, constantly expanding my skills to tackle new challenges.
 
-🤔 **Looking for Help With...**  
-   - I'm seeking guidance and support, especially from experienced developers, to enhance the deployment process of my project models.
+🤔   I'm seeking guidance and support, especially from experienced developers, to enhance the deployment process of my project models.
 
-👯‍♀️ **Looking to Collaborate On...**  
-   - I'm eager to collaborate with a developer who can assist in deploying my project models, making them accessible to a broader audience.
+👯‍♀️   I'm eager to collaborate with a developer who can assist in deploying my project models, making them accessible to a broader audience.
 
-📫 **How to Reach Me...**  
-   - I'd love to connect! You can reach out to me via [LinkedIn](https://www.linkedin.com/in/mitesh-gupta/) or [Twitter](https://twitter.com/mg_mitesh) or [Gmail](mailto:mgmiteshgupta134@gmail.com)
- 
+📫   I'd love to connect! You can reach out to me via [LinkedIn](https://www.linkedin.com/in/mitesh-gupta/) or [Twitter](https://twitter.com/mg_mitesh) or [Gmail](mailto:mgmiteshgupta134@gmail.com)
    
-💬 **Ask Me About...**  
-   - Feel free to ask me about anything related to my projects, data science, or any other tech-related topics you find intriguing.
+💬   Feel free to ask me about anything related to my projects, data science, or any other tech-related topics you find intriguing.
 
 
       
