@@ -65,7 +65,7 @@ I'm Mitesh Gupta, an **Aspiring Data Scientist** with a strong desire for discov
 
 
 
-## 🚀 About Me
+## About Me 🚀
 
 🧠   I'm currently learning Data Science, constantly expanding my skills to tackle new challenges.
 
