@@ -10,7 +10,7 @@ I'm Mitesh Gupta, an **Aspiring Data Scientist** with a strong desire for discov
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitesh-gupta/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mg_mitesh)
-[![Gmail](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgmiteshgupta134@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miteshgupta2711@gmail.com)
 [![Medium](https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mitesh_gupta)
 
 
