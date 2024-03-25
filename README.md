@@ -17,7 +17,7 @@ I'm Mitesh Gupta, an **Aspiring Data Scientist** with a strong desire for discov
 
 ## Tech Stack 🛠
 
-**Deep Learning**
+**Deep Learning** 
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/keras-EE4C2C?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
