@@ -4,7 +4,7 @@
 
 
 
-I'm Mitesh Gupta, an **Aspiring Data Scientist** with a strong desire for discovering complex patterns in huge datasets. I have a unique set of skills from my work in the data area that allows me to make a link between raw data and insightful understandings.
+I'm Mitesh Gupta, an enthusiastic Data Science student with a talent for AI,Machine Learning (ML), and Deep Learning (DL). Skilled inWeb Scraping, Python, and MySQL, and eager to leveragethese talents in transformative data science, machinelearning, and AI projects
 
 
 ## Connect With Me 🤝
