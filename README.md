@@ -7,9 +7,9 @@
 I'm Mitesh Gupta, an enthusiastic **Data Science** student with a talent for AI,Machine Learning (ML), and Deep Learning (DL). Skilled inWeb Scraping, Python, and MySQL, and eager to leveragethese talents in transformative data science, machinelearning, and AI projects
 
 
-## Connect With Me [🤝](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBrem5zdWIzdzhzbXVvZ2hvOXBkazloZDdvcHY4MGtzMjVkMnN0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cHw1sFUAfZcZfcLjq9/giphy.gif)
+## Connect With Me 🤝
 
-[![linkedin](https://img.shields.io/badge/linkedin-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/Linkedin-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/mg_mitesh)
 [![Gmail](https://img.shields.io/badge/gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:miteshgupta2711@gmail.com)
 [![Medium](https://img.shields.io/badge/medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@mitesh_gupta)
