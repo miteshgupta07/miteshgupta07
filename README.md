@@ -1,4 +1,6 @@
-# Hi, I'm Mitesh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<div align="center">
+  <h1>Hi, I'm Mitesh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+</div>
 
 
 
@@ -7,21 +9,10 @@ I'm Mitesh Gupta, an **Aspiring Data Scientist** with a strong desire for discov
 
 ## Connect With Me 🤝
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/linkedin-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=blue" alt="linkedin badge">
-</a>
-
-<a href="https://twitter.com/mg_mitesh">
-  <img src="https://img.shields.io/badge/twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=blue" alt="twitter badge">
-</a>
-
-<a href="mailto:miteshgupta2711@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail badge">
-</a>
-
-<a href="https://medium.com/@mitesh_gupta">
-  <img src="https://img.shields.io/badge/medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black" alt="Medium badge">
-</a>
+[![linkedin](https://img.shields.io/badge/linkedin-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/mg_mitesh)
+[![Gmail](https://img.shields.io/badge/gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:miteshgupta2711@gmail.com)
+[![Medium](https://img.shields.io/badge/medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@mitesh_gupta)
 
 
 
