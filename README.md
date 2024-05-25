@@ -2,12 +2,11 @@
   <br>
   <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
   <br>
-  <h1>Hi, I'm Mitesh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <h1><i>Hi, I'm Mitesh!</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 </div>
 
 
-
-<div><h4>I'm Mitesh Gupta, an enthusiastic **Data Science** student with a talent for AI,Machine Learning (ML), and Deep Learning (DL). Skilled inWeb Scraping, Python, and MySQL, and eager to leveragethese talents in transformative data science, machinelearning, and AI projects</h4></div>
+*I'm Mitesh Gupta, an enthusiastic **Data Science** student with a talent for AI,Machine Learning (ML), and Deep Learning (DL). Skilled inWeb Scraping, Python, and MySQL, and eager to leveragethese talents in transformative data science, machine learning, and AI projects.*
 
 ## Connect With Me 🤝
 
