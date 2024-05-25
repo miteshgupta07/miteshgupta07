@@ -7,8 +7,7 @@
 
 
 
-I'm Mitesh Gupta, an enthusiastic **Data Science** student with a talent for AI,Machine Learning (ML), and Deep Learning (DL). Skilled inWeb Scraping, Python, and MySQL, and eager to leveragethese talents in transformative data science, machinelearning, and AI projects
-
+<div><h4>I'm Mitesh Gupta, an enthusiastic **Data Science** student with a talent for AI,Machine Learning (ML), and Deep Learning (DL). Skilled inWeb Scraping, Python, and MySQL, and eager to leveragethese talents in transformative data science, machinelearning, and AI projects</h4></div>
 
 ## Connect With Me 🤝
 
