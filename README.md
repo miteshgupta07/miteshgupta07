@@ -70,7 +70,7 @@
 
 ## About Me 🚀
 
-🧠   I'm currently learning Data Science, constantly expanding my skills to tackle new challenges.
+🧠   I'm currently building Data Science and AI Projects, constantly expanding my skills to tackle new challenges.
 
 👬   I'm eager to collaborate with a developer who can assist in deploying my project models, making them accessible to a broader audience.
 
