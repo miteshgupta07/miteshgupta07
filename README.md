@@ -11,14 +11,13 @@ I'm Mitesh Gupta, an enthusiastic Data Science student with a talent for AI,Mach
 ## Connect With Me 🤝
 
 <p align="center">
-<a href="https://twitter.com/mg_mitesh" target="blank"><img align="center" src="" alt="mg_mitesh" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/mitesh-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitesh-gupta" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/mitesh-gupta" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="mitesh-gupta" height="40" width="40" /></a>
+<a href="https://twitter.com/mg_mitesh" target="blank"><img align="center" src="https://github.com/miteshgupta07/miteshgupta07/assets/111682782/2202cde1-7b76-42d0-a331-d77e8bc5e434" alt="mg_mitesh" height="40" width="40" /></a>
 <a href="https://instagram.com/mg_mitesh_gupta" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="mg_mitesh_gupta" height="40" width="40" /></a>
 <a href="https://medium.com/@mitesh_gupta" target="blank"><img align="center" src="https://github.com/miteshgupta07/miteshgupta07/assets/111682782/dcdf639f-27aa-4dc0-974a-2a22dbc50f8b" alt="@mitesh_gupta" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/mgmiteshgupta134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mgmiteshgupta134" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/mgmiteshgupta134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mgmiteshgupta134" height="40" width="40" /></a>
+
 </p>
-![twitter](https://github.com/miteshgupta07/miteshgupta07/assets/111682782/ab496900-a513-4d36-9b54-f69dbd135159)
+
 
 
 ## Tech Stack 🛠
