@@ -59,15 +59,15 @@ I'm Mitesh Gupta, an enthusiastic Data Science student with a talent for AI,Mach
 
 **Backend Framework**
 <p align="left">
-<img href="https://streamlit.io/" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="60" height="60">&nbsp;&nbsp;&nbsp;
-<img href="https://flask.palletsprojects.com/en/3.0.x/" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask" width="60" height="60">
+  <a href="https://streamlit.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask" width="60" height="60"></a>
 </p>
 
 **Programming Language**
 
 <p align="left">
-<img href="https://skillicons.dev" src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60">&nbsp;&nbsp;&nbsp;
-<img href="https://devdocs.io/c/" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" alt="C" width="60" height="60">
+<a href="https://skillicons.dev"><<img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://devdocs.io/c/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" alt="C" width="60" height="60"></a>
 </p>
 
 **Databases**
