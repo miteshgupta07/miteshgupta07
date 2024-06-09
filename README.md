@@ -58,14 +58,15 @@ I'm Mitesh Gupta, an enthusiastic Data Science student with a talent for AI,Mach
 
 
 **Backend Framework**
-
-[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
-[![Flask](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black)](https://flask.palletsprojects.com/en/3.0.x/)
+<p align="left">
+<img href="https://streamlit.io/" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="60" height="60">&nbsp;&nbsp;&nbsp;
+<img href="https://flask.palletsprojects.com/en/3.0.x/" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask" width="60" height="60">
+</p>
 
 **Programming Language**
 
 <p align="left">
-<img href="https://skillicons.dev" src="https://skillicons.dev/icons?i=python" alt="C" width="60" height="60">&nbsp;&nbsp;&nbsp;
+<img href="https://skillicons.dev" src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60">&nbsp;&nbsp;&nbsp;
 <img href="https://devdocs.io/c/" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" alt="C" width="60" height="60">
 </p>
 
