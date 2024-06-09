@@ -1,13 +1,15 @@
 <div align="center">
-  <h1>Hi, I'm Mitesh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
+  <h1 align="center">Hi, I'm Mitesh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+I'm Mitesh Gupta, an enthusiastic Data Science student with a talent for AI,Machine Learning (ML), and Deep Learning (DL). Skilled in Web Scraping, Python, and MySQL, and eager to leveragethese talents in transformative data science, machinelearning, and AI projects
 </div>
 
-
-I'm Mitesh Gupta, an enthusiastic Data Science student with a talent for AI,Machine Learning (ML), and Deep Learning (DL). Skilled inWeb Scraping, Python, and MySQL, and eager to leveragethese talents in transformative data science, machinelearning, and AI projects
-
-  
+ 
 <div align="center">
-  <h1>Connect With Me 🤝</h1>
+  <h2>Connect With Me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px"></h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  
   <a href="mailto:miteshgupta2711@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/mitesh-gupta" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="mitesh-gupta" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/mg_mitesh" target="blank"><img align="center" src="https://github.com/miteshgupta07/miteshgupta07/assets/111682782/2202cde1-7b76-42d0-a331-d77e8bc5e434" alt="mg_mitesh" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;
@@ -15,7 +17,7 @@ I'm Mitesh Gupta, an enthusiastic Data Science student with a talent for AI,Mach
   <a href="https://medium.com/@mitesh_gupta" target="blank"><img align="center" src="https://github.com/miteshgupta07/miteshgupta07/assets/111682782/dcdf639f-27aa-4dc0-974a-2a22dbc50f8b" alt="@mitesh_gupta" height="40" width="40" /></a>
 </div>
 
-  <img align="right" alt="Coding" width="200" height="200" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+  <img align="right" alt="Coding" width="350" height="200" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d">
 <br><br>
 
 - 🌱 I’m currently learning **LLMs**
@@ -26,8 +28,11 @@ I'm Mitesh Gupta, an enthusiastic Data Science student with a talent for AI,Mach
 
 - 📫 How to reach me **miteshgupta2711@gmail.com**
 
-<div align="">
-  <h2>Tech Stack 🛠</h2>
+
+<div align="center">
+<h2> Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif", width="35" height="35"> </h2>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  
 </div>
 
 - Machine Learning 
@@ -87,7 +92,13 @@ I'm Mitesh Gupta, an enthusiastic Data Science student with a talent for AI,Mach
 </p>
 
 
+<div align="center">
+      <h2>Github Stats <img src ="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"width="80" height="80"> </h2>
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
       
+
+</div>
+        
 ![miteshgupta07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miteshgupta07&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 ![miteshgupta07's Stats](https://github-readme-stats.vercel.app/api?username=miteshgupta07&theme=default&show_icons=true&hide_border=false&count_private=false)    
