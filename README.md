@@ -8,15 +8,14 @@
 
 I'm Mitesh Gupta, an enthusiastic Data Science student with a talent for AI,Machine Learning (ML), and Deep Learning (DL). Skilled inWeb Scraping, Python, and MySQL, and eager to leveragethese talents in transformative data science, machinelearning, and AI projects
 
-## Connect With Me 🤝
-
-<p align="center">
-<a href="mailto:miteshgupta2711@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/mitesh-gupta" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="mitesh-gupta" height="40" width="40" /></a>
-<a href="https://twitter.com/mg_mitesh" target="blank"><img align="center" src="https://github.com/miteshgupta07/miteshgupta07/assets/111682782/2202cde1-7b76-42d0-a331-d77e8bc5e434" alt="mg_mitesh" height="40" width="40" /></a>
-<a href="https://instagram.com/mg_mitesh_gupta" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="mg_mitesh_gupta" height="40" width="40" /></a>
-<a href="https://medium.com/@mitesh_gupta" target="blank"><img align="center" src="https://github.com/miteshgupta07/miteshgupta07/assets/111682782/dcdf639f-27aa-4dc0-974a-2a22dbc50f8b" alt="@mitesh_gupta" height="40" width="40" /></a>
-</p>
+<div align="center">
+  <h1>Connect With Me 🤝</h1>
+  <a href="mailto:miteshgupta2711@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/mitesh-gupta" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="mitesh-gupta" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/mg_mitesh" target="blank"><img align="center" src="https://github.com/miteshgupta07/miteshgupta07/assets/111682782/2202cde1-7b76-42d0-a331-d77e8bc5e434" alt="mg_mitesh" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/mg_mitesh_gupta" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="mg_mitesh_gupta" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@mitesh_gupta" target="blank"><img align="center" src="https://github.com/miteshgupta07/miteshgupta07/assets/111682782/dcdf639f-27aa-4dc0-974a-2a22dbc50f8b" alt="@mitesh_gupta" height="40" width="40" /></a>
+</div>
 
 
 
@@ -31,13 +30,18 @@ I'm Mitesh Gupta, an enthusiastic Data Science student with a talent for AI,Mach
 
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 
-**Machine Learning**
+****
 
-[![scikit-learn](https://img.shields.io/badge/scikit_learn-E10098?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+<div align="left">
+  <h2>Machine Learning</h2>
+  <a href="https://scikit-learn.org/stable/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" height="60" width="60" /></a> 
+  
 [![SciPy](https://img.shields.io/badge/SciPy-FB2423?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-276DC3?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/en/stable/)
-[![Joblib](https://img.shields.io/badge/Joblib-FD8C25?style=for-the-badge&logo=python&logoColor=white)](https://joblib.readthedocs.io/en/stable/)
+[![Joblib](https://img.shields.io/badge/Joblib-FD8C25?style=for-the-badge&logo=python&logoColor=white)]()
 [![Pickle](https://img.shields.io/badge/Pickle-3E8E04?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/pickle.html)
+
+</div>
 
 **Data Visualisation**
 
@@ -60,13 +64,15 @@ I'm Mitesh Gupta, an enthusiastic Data Science student with a talent for AI,Mach
 
 **Programming Language**
 
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)
+<p align="left">
+<img href="https://skillicons.dev" src="https://skillicons.dev/icons?i=python" alt="C" width="60" height="60">&nbsp;&nbsp;&nbsp;
+<img href="https://devdocs.io/c/" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" alt="C" width="60" height="60">
+</p>
 
-**Database Management**
-
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
-
+**Databases**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60">
+</p>
 
 
 ## About Me 🚀
