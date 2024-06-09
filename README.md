@@ -17,6 +17,15 @@ I'm Mitesh Gupta, an enthusiastic Data Science student with a talent for AI,Mach
   <a href="https://medium.com/@mitesh_gupta" target="blank"><img align="center" src="https://github.com/miteshgupta07/miteshgupta07/assets/111682782/dcdf639f-27aa-4dc0-974a-2a22dbc50f8b" alt="@mitesh_gupta" height="50" width="50" /></a>
 </div>
 
+<div align="center">
+  <h1>About Me 🚀</h1>
+</div>
+
+🧠   I'm currently building Data Science and AI projects, constantly expanding my skills to tackle new challenges.
+
+👬   I'm eager to collaborate with a developer who can assist in deploying my project models, making them accessible to a broader audience.
+   
+💬   Feel free to ask me about anything related to my projects, data science, or any other tech-related topics you find intriguing.
 
 <div align="center">
   <h1>Tech Stack 🛠</h1>
@@ -79,17 +88,6 @@ I'm Mitesh Gupta, an enthusiastic Data Science student with a talent for AI,Mach
 <p align="left">
 &nbsp;&nbsp;&nbsp;<a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="50" height="50">
 </p>
-
-
-## About Me 🚀
-
-🧠   I'm currently learning Data Science, constantly expanding my skills to tackle new challenges.
-
-👬   I'm eager to collaborate with a developer who can assist in deploying my project models, making them accessible to a broader audience.
-
-📫   I'd love to connect! You can reach out to me via [LinkedIn](https://www.linkedin.com/in/mitesh-gupta/) or [Twitter](https://twitter.com/mg_mitesh) or [Gmail](mailto:mgmiteshgupta134@gmail.com)
-   
-💬   Feel free to ask me about anything related to my projects, data science, or any other tech-related topics you find intriguing.
 
 
       
