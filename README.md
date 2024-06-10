@@ -13,14 +13,14 @@
   <a href="https://medium.com/@mitesh_gupta" target="blank"><img align="center" src="https://github.com/miteshgupta07/miteshgupta07/assets/111682782/dcdf639f-27aa-4dc0-974a-2a22dbc50f8b" alt="@mitesh_gupta" height="40" width="40" /></a>
 </div>
 
- <img align="right" alt="Coding" width="21%" height="21%" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
+ <img align="right" alt="Coding" width="25%" height="25%" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 <br><br>
 
 - 🌱 I’m currently learning **LLMs**
 
 - 💬 Ask me about **Data Science, AI, Python**
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://www.datascienceportfol.io/miteshgupta)
+- 👨‍💻 All of my projects are available at my [**Portfolio**](https://www.datascienceportfol.io/miteshgupta)
 
 - 📫 How to reach me **miteshgupta2711@gmail.com**
 
