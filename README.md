@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mitesh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center">Hi, I'm Mitesh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 <h4 align="center">I'm Mitesh Gupta, an enthusiastic Data Science student with a talent for AI,Machine Learning (ML), and Deep Learning (DL). Skilled in Web Scraping, Python, and MySQL, and eager to leveragethese talents in transformative data science, machinelearning, and AI projects</h4>
 
  
