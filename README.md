@@ -12,8 +12,7 @@
   <a href="https://instagram.com/mg_mitesh_gupta" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="mg_mitesh_gupta" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@mitesh_gupta" target="blank"><img align="center" src="https://github.com/miteshgupta07/miteshgupta07/assets/111682782/dcdf639f-27aa-4dc0-974a-2a22dbc50f8b" alt="@mitesh_gupta" height="40" width="40" /></a>
 </div>
-
- <img align="right" alt="Coding" width="25%" height="25%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  <img align="right" alt="Coding" width="25%" height="25%" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 <br><br>
 
 - 🌱 I’m currently learning **LLMs**
@@ -29,12 +28,12 @@
  <h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif", width="35" height="35">&nbsp; Tech Stack &nbsp;<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif", width="35" height="35"> <img src ="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"></h2> 
 </div>
 
+ <img align="right" alt="Coding" width="35%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 <h3 align="left">• Machine Learning</h3> 
 <p align="left">
-  &nbsp;&nbsp;&nbsp;<a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" alt="OpenCV" width="50" height="50"></a>
+  &nbsp;&nbsp;&nbsp;<a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" alt="OpenCV" width="40" height="50"></a>
 </p>
-
-<img align="right" alt="Binary" width="40%" src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif">
 
 <h3 align="left">• Deep Learning</h3>
 <p align="left">
@@ -70,8 +69,6 @@
 <p align="left">
 &nbsp;&nbsp;&nbsp;<a href="https://scrapy.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" alt="Scrapy" width="45" height="45"></a>&nbsp;&nbsp;&nbsp;<a href="https://scrapy.org/" target="_blank"><img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" height="45"></a>
 </p>
-
-<img align="right" alt="Coding" width="25%" height="25%" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 <h3 align="left">• Backend Framework</h3>
 <p align="left">
