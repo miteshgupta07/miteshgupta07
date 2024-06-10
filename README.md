@@ -28,7 +28,7 @@
  <h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif", width="35" height="35">&nbsp; Tech Stack &nbsp;<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif", width="35" height="35"> <img src ="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"></h2> 
 </div>
 
- <img align="right" alt="Coding" width="35%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+ <img align="right" alt="Coding" width="45%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <h3 align="left">• Machine Learning</h3> 
 <p align="left">
@@ -104,4 +104,4 @@
 <img src ="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=miteshgupta07&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true" width="400">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miteshgupta07&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" width="352">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miteshgupta07&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" width="360">
