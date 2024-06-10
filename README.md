@@ -1,10 +1,11 @@
-<h1 align="center">Hi, I'm Mitesh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
+<h1 align="center">Hi, I'm Mitesh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"><img src ="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"></h1>
 <h4 align="center">I'm Mitesh Gupta, an enthusiastic Data Science student with a talent for AI,Machine Learning (ML), and Deep Learning (DL). Skilled in Web Scraping, Python, and MySQL, and eager to leveragethese talents in transformative data science, machinelearning, and AI projects</h4>
 
  
 <div align="center">
-  <h2><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40px">&nbsp; Connect With Me &nbsp;<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40px"></h2>
- 
+  <h2><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40px">&nbsp; Connect With Me &nbsp;<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40px"><img src ="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"></h2>
+</div>
+<div align="center">  
   <a href="mailto:miteshgupta2711@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/mitesh-gupta" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="mitesh-gupta" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/mg_mitesh" target="blank"><img align="center" src="https://github.com/miteshgupta07/miteshgupta07/assets/111682782/2202cde1-7b76-42d0-a331-d77e8bc5e434" alt="mg_mitesh" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;
@@ -25,7 +26,7 @@
 
 
 <div align="center">
- <h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif", width="35" height="35">&nbsp; Tech Stack &nbsp;<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif", width="35" height="35"> </h2
+ <h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif", width="35" height="35">&nbsp; Tech Stack &nbsp;<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif", width="35" height="35"> <img src ="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"></h2> 
 </div>
 
 <h3 align="left">• Machine Learning</h3> 
@@ -89,14 +90,13 @@
  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="PyCharm" width="50"></a>&nbsp;&nbsp;
  <a href="https://jupyter.org/" target="_blank"><img src="https://github.com/miteshgupta07/miteshgupta07/assets/111682782/3c346c85-6191-43fc-82a2-e9ecf705b9c8" alt="Notebook" width="60"></a>&nbsp;&nbsp;
  <a href="https://colab.research.google.com/" target="_blank"><img src="https://github.com/miteshgupta07/miteshgupta07/assets/111682782/3aef1081-df26-49b5-9c1b-2736a5d3cffc" alt="Colab" width="75"></a>
-
-
-
 </p>
 
 
-<h2 align="center"><img src ="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"width="30" height="30"> Github Stats <img src ="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"width="30" height="30"</h2>
+<h2 align="center"><img src ="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"width="30" height="35"> Github Stats <img src ="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"width="30" height="35"</h2>
 
-![miteshgupta07's Stats](https://github-readme-stats.vercel.app/api?username=miteshgupta07&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)   ![miteshgupta07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=miteshgupta07&theme=vision-friendly-dark&hide_border=false)
+<img src ="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=miteshgupta07&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true" width="400">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=miteshgupta07&theme=vision-friendly-dark&hide_border=false" width="423">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miteshgupta07&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" width="400">
-
