@@ -36,7 +36,8 @@
 
 <h3 align="left">• Deep Learning</h3>
 <p align="left">
-  &nbsp;&nbsp;&nbsp;<a href="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="TensorFlow" width="60" height="55"></a>&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;<a href="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="TensorFlow" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://pytorch.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" alt="Keras" width="50" height="50"></a>&nbsp;&nbsp;
   <a href="https://github.com/devicons/devicon/blob/v2.16.0/icons/keras/keras-original.svg" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/keras/keras-original.svg" alt="Keras" width="50" height="50"></a>
 </p>
 
