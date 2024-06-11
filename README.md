@@ -31,7 +31,7 @@
 
 <h3 align="left">• Machine Learning</h3> 
 <p align="left">
-  &nbsp;&nbsp;&nbsp;<a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" alt="OpenCV" width="40" height="50"></a>
+  &nbsp;&nbsp;&nbsp;<a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" alt="OpenCV" width="50" height="50"></a>
 </p>
 
 <h3 align="left">• Deep Learning</h3>
