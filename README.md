@@ -11,7 +11,7 @@
   <a href="https://twitter.com/mg_mitesh" target="blank"><img align="center" src="https://github.com/miteshgupta07/miteshgupta07/assets/111682782/2202cde1-7b76-42d0-a331-d77e8bc5e434" alt="mg_mitesh" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/mg_mitesh_gupta" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="mg_mitesh_gupta" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@mitesh_gupta" target="blank"><img align="center" src="https://github.com/miteshgupta07/miteshgupta07/assets/111682782/dcdf639f-27aa-4dc0-974a-2a22dbc50f8b" alt="@mitesh_gupta" height="40" width="40" /></a>
-</div> 
+</div>  
   <img align="right" alt="Coding" width="25%" height="25%" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 <br><br>
 
