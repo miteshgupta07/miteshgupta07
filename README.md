@@ -2,7 +2,7 @@
 <h4 align="center">I'm Mitesh Gupta, an dedicated Data Science student with a strong foundation in AI,Machine Learning (ML), and Deep Learning (DL). Skilled in Computer Vision (CV), Natural Language Processing(NLP), Web Scraping, Python, and MySQL, and eager to use these talents in transformative Data Science, ML, and AI projects</h4>
   
 <div align="center">
-  <h2><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40px">&nbsp; Connect With Me &nbsp;<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40px"><img src ="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"></h2>
+  <h2><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40px">&nbsp; Connect With Me &nbsp;<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40px"><img src ="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  width="100%"></h2>
 </div>
 
 <div align="center">  
