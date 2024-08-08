@@ -4,6 +4,7 @@
 <div align="center">
   <h2><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40px">&nbsp; Connect With Me &nbsp;<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40px"><img src ="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"></h2>
 </div>
+
 <div align="center">  
   <a href="mailto:miteshgupta2711@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/mitesh-gupta" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="mitesh-gupta" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;
