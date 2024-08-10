@@ -22,6 +22,8 @@
 
 - 👨‍💻 All of my projects are available at my [**Portfolio**](https://www.datascienceportfol.io/miteshgupta)
 
+- 🚀Check Out my blogs at my [**Medium**](https://medium.com/@mitesh_gupta)
+
 - 📫 How to reach me **miteshgupta2711@gmail.com**
 
 <br></br>
