@@ -26,7 +26,6 @@
 
 - 📫 How to reach me **miteshgupta2711@gmail.com**
 
-<br></br>
 <div align="center">
  <h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif", width="35" height="35">&nbsp; Tech Stack &nbsp;<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif", width="35" height="35"> <img src ="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"></h2> 
 </div>
