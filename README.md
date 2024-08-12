@@ -31,7 +31,7 @@
 </div>
 
  <img align="right" alt="Coding" width="45%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
- 
+  
 <h3 align="left">• Machine Learning</h3> 
 <p align="left">
   &nbsp;&nbsp;&nbsp;<a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" alt="OpenCV" width="50" height="50"></a>
