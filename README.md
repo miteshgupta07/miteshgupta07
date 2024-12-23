@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Data Science, AI, Python**
 
-- 👨‍💻 All of my projects are available at my [**Portfolio**](https://www.datascienceportfol.io/miteshgupta)
+- 👨‍💻 All of my projects are available at my [**Portfolio**](https://miteshgupta-portfolio.vercel.app/)
 
 - 🚀Check Out my blogs at my [**Medium**](https://medium.com/@mitesh_gupta)
 
