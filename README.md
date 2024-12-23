@@ -31,7 +31,19 @@
 </div>
 
  <img align="right" alt="Coding" width="45%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-  
+
+<h3 align="left">• Generative AI</h3>
+<p align="left">
+  &nbsp;&nbsp;&nbsp;<a href="https://www.langchain.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/LangChain_logo.png" alt="LangChain" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Hugging_Face_Logo.svg" alt="Hugging Face" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/OpenAI_Logo_2023.svg" alt="OpenAI" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mlflow.org/" target="_blank"><img src="https://www.mlflow.org/docs/latest/_static/mlflow-logo-colored.svg" alt="MLflow" width="50" height="50"></a>
+</p>
+
+
+![langchain-color](https://github.com/user-attachments/assets/fc7fe320-56af-42b3-92f4-ada11fbb4ddf)
+
+
 <h3 align="left">• Machine Learning</h3> 
 <p align="left">
   &nbsp;&nbsp;&nbsp;<a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" alt="OpenCV" width="50" height="50"></a>
