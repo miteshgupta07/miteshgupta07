@@ -37,7 +37,7 @@
   &nbsp;&nbsp;&nbsp;<a href="https://www.langchain.com/" target="_blank"><img src="https://github.com/user-attachments/assets/1ccb3077-de08-48f2-b7f1-f93f66581c1e" alt="LangChain" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://huggingface.co/" target="_blank"><img src="https://github.com/user-attachments/assets/849f04e1-b73b-4fd4-a3e7-956d1d2d21c0" alt="Hugging Face" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://openai.com/" target="_blank"><img src="https://github.com/user-attachments/assets/5e6b4a55-ab9e-4c15-8a29-c56b97695bd7" alt="OpenAI" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://ollama.com/" target="_blank"><img src="https://github.com/user-attachments/assets/6229012d-10c1-45ac-81d5-f491a47e34a4" alt="Ollama" width="60" height="60"></a>
+  <a href="https://ollama.com/" target="_blank"><img src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7" alt="Ollama" width="60" height="60"></a>
 </p>
 
 
