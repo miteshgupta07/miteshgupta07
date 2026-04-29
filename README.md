@@ -34,10 +34,10 @@
 
 <h3 align="left">• Generative AI</h3>
 <p align="left">
-  &nbsp;&nbsp;&nbsp;<a href="https://www.langchain.com/" target="_blank"><img src="https://github.com/user-attachments/assets/1ccb3077-de08-48f2-b7f1-f93f66581c1e" alt="LangChain" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://huggingface.co/" target="_blank"><img src="https://github.com/user-attachments/assets/849f04e1-b73b-4fd4-a3e7-956d1d2d21c0" alt="Hugging Face" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://openai.com/" target="_blank"><img src="https://github.com/user-attachments/assets/5e6b4a55-ab9e-4c15-8a29-c56b97695bd7" alt="OpenAI" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://ollama.com/" target="_blank"><img src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7" alt="Ollama" width="60" height="60"></a>
+  &nbsp;&nbsp;&nbsp;<a href="https://www.langchain.com/" target="_blank"><img src="https://github.com/user-attachments/assets/1ccb3077-de08-48f2-b7f1-f93f66581c1e" alt="LangChain" width="60"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/" target="_blank"><img src="https://github.com/user-attachments/assets/849f04e1-b73b-4fd4-a3e7-956d1d2d21c0" alt="Hugging Face" width="60"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://openai.com/" target="_blank"><img src="https://github.com/user-attachments/assets/5e6b4a55-ab9e-4c15-8a29-c56b97695bd7" alt="OpenAI" width="60"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://ollama.com/" target="_blank"><img src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7" alt="Ollama" width="60"></a>
 </p>
 
 
@@ -91,10 +91,10 @@
   
 <h3 align="left">• Data Visualization</h3>
 <p align="left">
-  &nbsp;&nbsp;&nbsp;<a href="https://matplotlib.org/stable/index.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://plotly.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/plotly/plotly-original.svg" alt="Plotly" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"></a>
+  &nbsp;&nbsp;&nbsp;<a href="https://matplotlib.org/stable/index.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://plotly.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/plotly/plotly-original.svg" alt="Plotly" width="50"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg" alt="Pandas" width="50"></a>
 </p>
 <h3 align="left">• Tools and IDEs</h3>
 <p align="left">
@@ -108,6 +108,6 @@
 
 <br></br>
 
-<h2 align="center"><img src ="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"width="30" height="35"> Github Stats 
-
+<h2 align="center"><img src ="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"width="30"> Github Stats 
+<p></p>
  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miteshgupta07&theme=radical" target="_blank"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miteshgupta07&theme=radical"></a>
